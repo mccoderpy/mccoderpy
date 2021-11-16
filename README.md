@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats:
-![Mccoders github stats](https://github-readme-stats.vercel.app/api?username=mccoderpy&theme=radical&show_icons=true&count_private=true)
+![Mccoders github stats](https://github-readme-stats.vercel.app/api?username=mccoderpy&theme=onedark&show_icons=true&count_private=true&cache_seconds=1800)
   
  
-![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mccoderpy&theme=solarized_dark)
-![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mccoderpy&theme=solarized_dark)
-![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=solarized_dark)
+![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mccoderpy&theme=monokai)
+![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mccoderpy&theme=monokai)
+![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
 
