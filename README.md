@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   
   Via [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
-  
+  </br>
+  <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
 - other-projects: <a href="https://dsc.gg/radon-radio-music-bot" title="A music bot for discord made by me" target="_blank"><img src="https://cdn.discordapp.com/emojis/853946929699356672.png?size=20"> Radon Radio</a>
 <br/>
 
