@@ -1,15 +1,34 @@
 ### Hi there, my name is Mathieu👋
-
 #### I'm a 17 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [python](https://python.org).
 
+<p align="center">
+  <a href="https://discord.com/users/693088765333471284" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
+  </a>
+  <a href="https://www.instagram.com/mccoderpy/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
+  </a>
+  <a href="https://guilded.gg/u/mccoder-py" target="_blank">
+    <img src="https://img.shields.io/badge/-Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white" alt="Send me a DM on Guilded.
+PS: Discord still better 😜 Guilded is just a copy with more features 🙃">
+  </a>
+</p>
+
 <!--
+​![​status​](https://dev.discordprofiles.me/badge/status/693088765333471284) 
+​![​playing​](https://dev.discordprofiles.me/badge/playing/693088765333471284) 
+​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/693088765333471284) 
+[![​spotify​](https://dev.discordprofiles.me/badge/spotify/693088765333471284)](https://dev.discordprofiles.me/openspotify/693088765333471284)
+
 **mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -19,13 +38,12 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: `he`/`him`
 - 🔭 I’m currently working on my discord library: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components)
+
 - 📫 How to reach me: 
   
-  Via [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
-  </br>
-  <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
-- other-projects: <a href="https://dsc.gg/radon-radio-music-bot" title="A music bot for discord made by me" target="_blank"><img src="https://cdn.discordapp.com/emojis/853946929699356672.png?size=20"> Radon Radio</a>
-<br/>
+  - Send me a Direct Message on [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
+    <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
+  - Send me a Direct Message on [Instagram](https://instagram.com): [@mccoderpy](https://instagram.com/mccoderpy)
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -34,10 +52,8 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats:
-![Mccoders github stats](https://github-readme-stats.vercel.app/api?username=mccoderpy&theme=onedark&show_icons=true&count_private=true&cache_seconds=1800)
-  
- 
-![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mccoderpy&theme=monokai)
-![Mccoders Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mccoderpy&theme=monokai)
 ![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
 
+<p align="center" >
+     <img src="https://komarev.com/ghpvc/?username=mccoderpy&style=flat" alt=mccoderpy>
+</p>
