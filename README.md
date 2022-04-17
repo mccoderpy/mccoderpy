@@ -43,7 +43,8 @@ Here are some ideas to get you started:
   
   - Send me a Direct Message on [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
     <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
-  - Send me a Direct Message on [Instagram](https://instagram.com): [@mccoderpy](https://instagram.com/mccoderpy)
+  - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
+  - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
