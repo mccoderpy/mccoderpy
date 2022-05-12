@@ -42,14 +42,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   
   - Send me a Direct Message on [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
-    <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
+  <center>
+    <a href='https://discord.gg/VAR8sutF'>
+      <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
+    </a>
+  </center>
+  
   - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
   - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
 
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&redirect=true)
+
 ### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mccoderpy&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
+<center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=mccoderpy&column=8&theme=discord&no-frame=true&no-bg=true"/>
+  </a>
+</center>
 
 
 ### 📊 GitHub Stats:
