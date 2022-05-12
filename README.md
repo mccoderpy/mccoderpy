@@ -42,11 +42,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   
   - Send me a Direct Message on [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
-  <center>
-    <a href='https://discord.gg/VAR8sutF'>
-      <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png">
-    </a>
-  </center>
+
+    <center>
+      <a href='https://discord.gg/VAR8sutF'>
+        <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
+      </a>
+    </center>
   
   - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
   - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
