@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: `he`/`him`
-- 🔭 I’m currently working on my discord library: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components)
+- 🔭 I’m currently working on my discord library: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) and [instatus.py](https://github.com/instatus-py/instatus.py)
 
 - 📫 How to reach me: 
   
