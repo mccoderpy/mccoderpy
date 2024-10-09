@@ -1,5 +1,5 @@
 ### Hi there, my name is Mathieu👋
-#### I'm a 19 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [python](https://python.org).
+#### I'm a 20 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [python](https://python.org).
 
 <p align="center">
   <a href="https://discord.com/users/693088765333471284" target="_blank">
